@@ -8,4 +8,3 @@ resultado = num1 + num2
 print('Total : ', resultado)
 
 print('hoalaaaaaaaaaaaaa')
-
