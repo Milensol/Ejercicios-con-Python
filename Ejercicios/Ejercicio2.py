@@ -8,3 +8,4 @@ area = (base * altura) / 2
 print('El area del rectangulo es :  ',  area)
 
 
+print('hola')
