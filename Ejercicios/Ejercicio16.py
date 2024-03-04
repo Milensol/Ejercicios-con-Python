@@ -7,6 +7,7 @@ elif nota == 'b':
     print('Aprobado')   
 elif nota == 'c':
     print('Aprobado con modificaciones')
-else: nota == 'd'
-print('Rechazado')
-
+elif nota == 'd':   
+    print('Rechazado')
+else:
+    print('Nota incorrecta')
