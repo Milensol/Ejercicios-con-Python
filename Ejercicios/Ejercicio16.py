@@ -1,18 +1,12 @@
 
-calif = input('Ingrese su calificacion : \n ')
+nota = input('Ingrese su calificacion : \n ')
 
-if calif == 'a':
+if nota == 'a':
     print('Recomendado para publicar')
-
-
-if calif == 'b':
-    print('Aprobado')
-
-
-if calif == 'c':
+elif nota == 'b':
+    print('Aprobado')   
+elif nota == 'c':
     print('Aprobado con modificaciones')
-
-
-if calif == 'd':
-    print('Rechazado')
+else: nota == 'd'
+print('Rechazado')
 
