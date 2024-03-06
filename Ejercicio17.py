@@ -5,6 +5,7 @@ horas = int(input('Ingrese las horas que trabajo : \n'))
 
 tarifa = float(input('Ingrese la tarifa : \n'))
 
+imp = 0
 
 if horas <= 35:
     s_bruto = tarifa * horas
