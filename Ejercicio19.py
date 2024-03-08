@@ -6,6 +6,6 @@ simbolo = input('Ingrese un simbolo : \n')
 i = 1
 
 while i <= num:
-    print(simbolo, end=', ')  
+    print(simbolo, end='')  
     i = i + 1
 
